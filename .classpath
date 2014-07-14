@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Source"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MesquiteCore"/>
+	<classpathentry kind="lib" path="/MesquiteCore/jars/commons-lang-2.3.jar"/>
+	<classpathentry kind="output" path="Mesquite_Folder"/>
+</classpath>
